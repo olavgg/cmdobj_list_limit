@@ -25,6 +25,7 @@
 			</g:if>
 			<g:render template="tag_form"/>
 		</g:form>
+
 	</div>
 
 </section>
